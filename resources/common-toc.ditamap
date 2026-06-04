@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <!--  This file is part of the DITA Open Toolkit project. See the accompanying Shobhit 4th June LICENSE file for applicable license.  -->
+<!--  Updated by Shobhit Kumar on June 4, 2026 - bug bash testing.  -->
 <map xml:lang="en-US">
   <title>DITA Open Toolkit <keyword keyref="release"/></title>
 
